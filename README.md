@@ -1,4 +1,4 @@
-*This project has been created as part of the 42 curriculum by ashabane.*
+*This project has been created as part of the 42 curriculum by Abdul Azeez Shabaneh(ashabane is my 42 school username).*
 
 # Description
 C programming can be quite tedious without the standard utilities we often take for granted. **Libft** is a foundational 42 project in which I reimplement a selection of essential C standard library functions from scratch.
