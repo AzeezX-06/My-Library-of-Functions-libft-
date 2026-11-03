@@ -53,7 +53,7 @@ memory management, and the behavior of the functions implemented in this project
 To explore the low-level pointer logic, memory overlap diagrams, and algorithm breakdowns designed during the development of this project, you can view the interactive whiteboard here:
 
 👉 [View Project Whiteboard](https://bauniversity-my.sharepoint.com/:wb:/g/personal/32401001033_std_bau_edu_jo/IQD9DD5Gvh8MT5DbAPLth9JVAVQJ3GCZRd9_bOzHPAOe6FQ?e=NOlWy2)
-
+Please note that, since the retirement of Microsoft Whiteboard Consumer, access is now limited to individuals with an Al-Balqa Applied University email address.
 
 ## Library Functions Overview
 
